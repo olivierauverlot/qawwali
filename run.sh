@@ -1,1 +1,1 @@
-plackup bin/app.psgi
+plackup -r bin/app.psgi
