@@ -1,1 +1,1 @@
-plackup -r bin/app.psgi
+carton exec plackup -r bin/app.psgi
